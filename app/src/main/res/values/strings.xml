@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MCA</string>
+    <string name="hwld">Hello World</string>
+    <string name="btn1">Click me</string>
+</resources>
