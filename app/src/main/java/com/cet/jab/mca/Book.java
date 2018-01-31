@@ -35,4 +35,6 @@ public class Book {
     public String getAuthor(){
         return author;
     }
+    public void setId(int id){ this.id=id; }
+    public int getId(){ return id;}
 }

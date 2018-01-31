@@ -2,4 +2,6 @@
     <string name="app_name">MCA</string>
     <string name="hwld">Hello World</string>
     <string name="btn1">Click me</string>
+    <string name="lb11">Enter Title</string>
+    <string name="lb12">Enter Title</string>
 </resources>
